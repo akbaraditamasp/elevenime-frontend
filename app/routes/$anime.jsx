@@ -18,7 +18,8 @@ export const meta = ({ data }) => {
       title: "Nonton Anime " + data.anime.title + " Sub Indo",
     },
     {
-      description: data.anime.synopsis,
+      name: "description",
+      content: data.anime.synopsis,
     },
     {
       property: "og:image",

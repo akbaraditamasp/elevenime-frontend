@@ -13,7 +13,8 @@ export const meta = () => {
       title: "Nonton Anime Sub Indo Gratis - Elevenime",
     },
     {
-      description:
+      name: "description",
+      content:
         "Elevenime adalah website layanan streaming anime gratis (tanpa iklan) dengan subtitle Bahasa Indonesia",
     },
     {
